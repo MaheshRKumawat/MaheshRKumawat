@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## Tech Enthusiast
 I am currently pursuing B.Tech in Computer Science at PES University Bangalore. <br>
 Humble and hardworking. Extremely motivated to constantly develop my skills and grow professionally. <br>
-I am confident in my ability to come up with interesting ideas for unforgettable technological innovations.
+I am confident in my ability to come up with interesting ideas for unforgettable technological innovations. <br>
 Here's my [LinkedIn](https://www.linkedin.com/in/mahesh-kumawat-84090919a/) profile.
