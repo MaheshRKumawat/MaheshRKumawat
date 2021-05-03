@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
 **MaheshRKumawat/MaheshRKumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Mahesh Kumawat
+## Tech Enthusiast
+I am currently pursuing B.Tech in Computer Science at PES University Bangalore. <br>
+Humble and hardworking. Extremely motivated to constantly develop my skills and grow professionally. <br>
+I am confident in my ability to come up with interesting ideas for unforgettable technological innovations.
+Here's my [LinkedIn](https://www.linkedin.com/in/mahesh-kumawat-84090919a/) profile.
