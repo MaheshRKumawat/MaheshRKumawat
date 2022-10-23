@@ -23,12 +23,10 @@ I am confident in my ability to come up with interesting ideas for unforgettable
 
 <br>
 
-[![Mahesh Kumawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshRKumawat)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahesh Kumawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshRKumawat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 ### Connect with me:
-<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahesh-kumawat-84090919a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;&nbsp; &nbsp;&nbsp;
